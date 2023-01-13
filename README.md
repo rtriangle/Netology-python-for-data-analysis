@@ -1,4 +1,4 @@
-# Netology: Mathematics for Data Science
+# Netology: Python for Data Science
 
 ### Лекция 1: Векторы и матрицы (Vectors and matrices)
 1. Вектор и операции над ним (Vector and vector operations)
